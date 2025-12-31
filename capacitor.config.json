@@ -1,0 +1,6 @@
+{
+  "appId": "com.aieditor.opu",
+  "appName": "AI Image Editor",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

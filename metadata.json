@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Inpainting Editor",
+  "description": "An interactive web application that allows users to upload an image, mask an area, and use an AI model to modify the selected portion based on a text prompt.",
+  "requestFramePermissions": []
+}
